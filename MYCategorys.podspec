@@ -10,6 +10,6 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "7.0"
   s.ios.deployment_target = "7.0"
   s.source       = { :git => "https://github.com/hh1myfei/MYCagtegorys.git", :tag => s.version}
-  s.source_files = 'MYCagtegorys/categorys/*.{h,m}'
+  s.source_files = 'categorys/*.{h,m}'
   s.requires_arc = true
 end
