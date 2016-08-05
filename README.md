@@ -10,4 +10,4 @@
 
 #如何使用
 
-pod 'MYCategorys', '~> 1.0.0'
+pod 'MYCategorys'
