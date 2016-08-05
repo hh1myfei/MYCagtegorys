@@ -1,7 +1,7 @@
 #MYCategorys
 Pod::Spec.new do |s|
   s.name         = "MYCategorys"
-  s.version      = “1.0.1”
+  s.version      = "1.0.1"
   s.summary      = "common iOS categories"
 
   s.homepage     = "https://github.com/hh1myfei/MYCagtegorys"
