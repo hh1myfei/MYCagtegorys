@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary      = "common iOS categories"
 
   s.homepage     = "https://github.com/hh1myfei/MYCagtegorys"
-  s.license      = 'MIT'
+  s.license      = "Copyright (c) 2016 myfei. All rights reserved."
   s.author       = { "myfei" => "hh1myfei@163.com" }
   s.platform     = :ios, "7.0"
   s.ios.deployment_target = "7.0"
